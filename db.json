@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "employees":
+  [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Mehmet Enes Çiçek",
+      "department": "Bilişim",
+      "salary": 10000
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
