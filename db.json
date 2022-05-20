@@ -4,7 +4,14 @@
     {
       "name": "Mehmet Enes Çiçek",
       "department": "Bilişim",
-      "salary": 10000
+      "salary": 10000,
+      "id": 1
+    },
+    {
+      "name": "Elon Musk",
+      "department": "Bussiness",
+      "salary": 1000000,
+      "id": 2
     }
   ]
 }
